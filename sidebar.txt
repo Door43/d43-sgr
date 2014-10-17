@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sgr:home|Door43 (sgr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sgr|d43-sgr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sgr/archive/master.zip|d43-sgr.zip]]
+
+**Recent Changes**
+{{changes>ns = sgr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sgr|Ethnologue data]]
+
